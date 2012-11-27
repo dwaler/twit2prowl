@@ -35,8 +35,7 @@ and to redirect any output to twit2prowl.log):
 
 To do
 -----
-Twit2prowl is by no means a finished product. It works for me, but might not work for you. The only reason I put it up on Guthub is because I wanted to get some experience with Github. However, these are the things I plan on improving:
-* Make retrieving mentions more efficient
+Twit2prowl is by no means a finished product. It works for me, but might not work for you. The only reason I put it up on Guthub is because I wanted to get some experience with Github. However, these are the things I plan on improving or adding:
 * Make twit2prowl work for DM's as well
 
-You are free to send in any suggestions, or clone this repo and code your own! I can be reached on git@buum.nl. 
+You are free to send in any suggestions at git@buum.nl, or clone this repo and code your own!
