@@ -31,7 +31,7 @@ For Prowl:
 
 You can now add the following line to your crontab to have it run every minute (
 and to redirect any output to twit2prowl.log):
-\* * * * * cd <location-to-twit2prowl>; ./twit2prowl.pl >>twit2prowl.log 2>&1
+`* * * * * cd <location-to-twit2prowl>; ./twit2prowl.pl >>twit2prowl.log 2>&1`
 
 To do
 -----
