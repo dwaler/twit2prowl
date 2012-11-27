@@ -1,0 +1,12 @@
+$cachefile = 'lasttweet.dat';
+$apikey = '1234567890abcdefghijklmnopqrstuvwxyz';
+$debug = 0;
+$priority = 0;
+%consumer_tokens = (
+  consumer_key    => '1234567890',
+  consumer_secret => 'abcdefghijklmnopqrstuvwxyz',
+);
+%access_tokens=(
+  access_token => '1234567890-abcdefghijklmnopqrstuvwxyz',
+  access_token_secret => 'abcdefghijklmnopqrstuvwxyz1234567890',
+);
