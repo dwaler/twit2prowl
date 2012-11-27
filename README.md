@@ -7,7 +7,7 @@ When I installed prowl on my iPhone, I originally used it together with Sickbear
 
 How it works
 ------------
-Twit2prowl works pretty simple: every time it runs, it will fetch the last 10 mentions for your userid. It keeps a cache of the last mention it pushed and will subsequently push any new ones to prowl. As you can understand from this, if you've had more than 10 mentions since the last run you'll end up missing some. If you are that popular though, you should probably look at something more manageable anyway ;)
+Twit2prowl works pretty simple: every time it runs, it will fetch the all mentions of your twitter handle since last run (with a limit of 20) and push them to Prowl. As you can understand from this, if you've had more than 20 mentions since the last run you'll end up missing some. If you are that popular though you should probably look at something more manageable anyway ;)
 
 Installation
 ------------
